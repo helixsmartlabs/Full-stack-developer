@@ -1,4 +1,5 @@
 ## webdesign
+## technologies : react,lazy loading,pure components,css, material ui
 
 ## demo link : https://webdesign-gamma.vercel.app
 
